@@ -2,6 +2,12 @@
 ## Edwin Oswaldo Castillo Trejo  
 ### Identidad de gobernanza y firma técnica: Anubis Villaseñor  
 
+---
+
+> "Cuando tengas un sueño que sepas es posible lograr, no te detengas. El mundo sobrevive y avanza gracias a aquellos que, aun a contracorriente, decidieron nunca rendirse; recuerda que solo tu propia mente posee la capacidad de detenerte."
+
+---
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--5050--1539-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5050-1539)  
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--3169--9229-00549F)](https://isni.org)  
 [![Zenodo](https://img.shields.io/badge/Zenodo-DOI%20registrado-0570B0?logo=zenodo&logoColor=white)](https://zenodo.org)  
